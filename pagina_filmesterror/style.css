@@ -1,0 +1,43 @@
+body {
+  font-family: "Poppins";
+  font-size: 22px;
+  background-color: #39404b;
+  margin: 0;
+  padding: 0;
+  text-align: center;
+}
+
+h2 {
+  color: #fff;
+  position: relative;
+  top: -50px;
+}
+
+header {
+  padding: 300px;
+  background-image: url(https://e1.pxfuel.com/desktop-wallpaper/753/195/desktop-wallpaper-horror-movie-backgrounds-every-horror-character.jpg);
+  color: #fff;
+  text-align: center;
+  position: relative;
+  top: -60px;
+}
+
+.filmesterror img {
+  height: 450px;
+  object-fit: cover;
+  width: 300px;
+}
+
+.filmesterror {
+  margin: 20px;
+  display: inline-block;
+  position: relative;
+}
+
+.filmesterror a {
+  position: absolute;
+  top: -65px;
+  right: 100px;
+  font-size: 20px;
+  color: #fff;
+}

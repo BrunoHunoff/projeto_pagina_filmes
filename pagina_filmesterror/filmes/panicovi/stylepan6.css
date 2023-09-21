@@ -1,0 +1,45 @@
+body {
+    font-family: "Poppins";
+    font-size: 22px;
+    background-color: #39404b;
+    margin: 0;
+    padding: 0;
+    text-align: center;
+  }
+  header {
+    padding: 300px;
+    background-image: url(https://zint.online/wp-content/uploads/2022/01/PANICO_009.jpeg);
+    color: #fff;
+    text-align: center;
+    position: relative;
+    top: -60px;
+  }
+  
+  h4 {
+      color: #fff;
+      position: relative;
+      text-align: start;
+      top: -50px;
+  }
+  
+  .hered h2, h5, p {
+    color: #fff;
+    position: relative;
+    top: -50px;
+  }
+  
+  .elenco h4, li {
+      color: white;
+      text-align: center;
+      top: 20px;
+  }
+  
+  .hered h5 {
+      top: -90px;
+      font-size: 15px
+  }
+  .hered p {
+      font-size: 18px;
+      text-align: start;
+  }
+  
