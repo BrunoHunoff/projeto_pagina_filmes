@@ -29,6 +29,10 @@ header {
   align-items: center;
 } 
 
+a {
+  color: white;
+  text-decoration: none;
+}
 
 .h1_header {
   text-align: start;
