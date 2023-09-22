@@ -46,12 +46,6 @@ table {
 
 /*Início*/
 
-.bg-header{
-    position: absolute;
-    top: 0;
-    
-}
-
 header{
     position: sticky;
     z-index: 999;
