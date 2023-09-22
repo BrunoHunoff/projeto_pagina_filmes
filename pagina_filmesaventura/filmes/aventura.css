@@ -8,6 +8,10 @@ body {
   color: white;
 }
 
+a{
+  text-decoration: none;
+}
+
 h2 {
   color: #fff;
   position: relative;
